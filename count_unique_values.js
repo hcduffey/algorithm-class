@@ -1,5 +1,5 @@
 function countUniqueValues(arr){
-    // add whatever parameters you deem necessary - good luck!
+    // assumes array is sorted
     let i = 0;
     let j = 1;
 
